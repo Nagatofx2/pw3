@@ -1,0 +1,25 @@
+{
+  "name": "pw3",
+  "version": "1.0.0",
+  "description": "pw3 ",
+  "main": "NBA",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagatofx2/pw3.git"
+  },
+  "keywords": [
+    "NBA"
+  ],
+  "author": "Marcelo dos santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nagatofx2/pw3/issues"
+  },
+  "homepage": "https://github.com/Nagatofx2/pw3#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
